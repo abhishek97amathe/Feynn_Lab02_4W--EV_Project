@@ -44,6 +44,15 @@ This project analyzes the growth and trends of four-wheeler electric vehicles (E
 - Line plots showing category-wise growth.
 - Scatter plots of sales vs. charging stations.
 
+## Conclusion
+
+- Electric vehicle (EV) sales in India are rising steadily each year.
+- Light Motor Vehicles (LMV) are the fastest-growing and most popular EV category.
+- Maharashtra, Uttar Pradesh, and Karnataka lead in EV adoption.
+- States with more charging stations generally have higher EV sales, but infrastructure is uneven.
+- Some vehicle categories, like MMV and HMV, have very low or no sales.
+- The overall EV market is expanding rapidly, driven by popular categories and leading states.
+
 ## License
 
 This project is for educational and research purposes.
